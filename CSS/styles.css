@@ -1,0 +1,19 @@
+body{
+  background-image: "C:\Users\Sunny Gupta\Desktop\web develpment\HTML- PERSONAL FILE\images\Leadership-Home-Page-BG.png";
+}
+h1{
+  color:#03b4c8 ;   font-size: 40px;
+}
+h2{
+  color:#020035;
+}
+h3{
+  color:#04d9ff;
+}
+  hr{
+    border-color: white;
+    border-style:none;
+    border-top-style: dotted;
+    border-width:5px;
+    width:10%;
+  }
